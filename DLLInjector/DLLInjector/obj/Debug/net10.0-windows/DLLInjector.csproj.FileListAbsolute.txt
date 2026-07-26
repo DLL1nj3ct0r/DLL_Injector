@@ -1,0 +1,16 @@
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\bin\Debug\net10.0-windows\DLLInjector.exe
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\bin\Debug\net10.0-windows\DLLInjector.deps.json
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\bin\Debug\net10.0-windows\DLLInjector.runtimeconfig.json
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\bin\Debug\net10.0-windows\DLLInjector.dll
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\bin\Debug\net10.0-windows\DLLInjector.pdb
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.Properties.Resources.resources
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.csproj.GenerateResource.cache
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.AssemblyInfo.cs
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.dll
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\refint\DLLInjector.dll
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.pdb
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\DLLInjector.genruntimeconfig.cache
+C:\Users\admin\Documents\Default Project\DLLInjector\DLLInjector\obj\Debug\net10.0-windows\ref\DLLInjector.dll

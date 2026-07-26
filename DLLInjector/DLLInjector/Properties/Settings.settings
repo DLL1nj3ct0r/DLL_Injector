@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <userSettings>
+        <DLLInjector.Properties.Settings>
+            <setting name="FirstRun" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="Theme" serializeAs="String">
+                <value>dark</value>
+            </setting>
+            <setting name="BackgroundImage" serializeAs="String">
+                <value></value>
+            </setting>
+        </DLLInjector.Properties.Settings>
+    </userSettings>
+</configuration>
